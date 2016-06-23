@@ -8,3 +8,5 @@ Python Library for DexLink Servo
 ### Tutorial / Documentation
 - Inline python docs is available for many functions
 - Tutorial is a TODO
+- Tutorial in Simplified Chinese is available at [pyDexlink 使用教程](https://github.com/njzhangyifei/pyDexLink/tree/master/tutorial)
+
