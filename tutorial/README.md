@@ -1,10 +1,8 @@
 ```
-
-Title: pyDexlink Tutorial (Simplified Chinese)
-Date: 2016-06-22
-Version: 0.0.1 (Subject to Change)
+Title:        pyDexlink Tutorial (Simplified Chinese)
+Date:         2016-06-22
+Version:      0.0.1 (Subject to Change)
 Prepared For: github.com/njzhangyifei/pyDexLink
-
 ```
 
 # pyDexlink 使用教程
