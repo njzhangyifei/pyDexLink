@@ -334,6 +334,12 @@ class DexLinkServo(DexLinkDevice):
         self.torque_output = (param == 1)
         return response
 
+    def config_address(self, address):
+        response = self.comm(DexLinkOperand.config_address, [address])
+        temp = response.read_int(2, 3)
+        self.address = temp
+        return response
+
     def config_mode_selection(self, new_mode):
         """
         Switch the control mode of the servo

@@ -48,6 +48,7 @@ servo = device_list[0]  # type: DexLinkServo
 # Print out the description for the servo
 print(str(servo))
 
+
 ######################################################
 # [ Examples for Basic Config ]
 # Enable Torque Output
