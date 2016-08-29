@@ -5,12 +5,17 @@ Version:      0.0.1 (Subject to Change)
 Prepared For: github.com/njzhangyifei/pyDexLink
 ```
 
+# 导航
+
+协议标准请见 [DexLink协议标准](http://vm.njzyf.info/static/dexlink/)
+
+舵机硬件相关问题请见 [DexLink Servo Hardware Documentation](https://github.com/njzhangyifei/pyDexLink/tree/master/docs_hardware)
+
+疑难解答请见 [pyDexlink 疑难解答](https://github.com/njzhangyifei/pyDexLink/tree/master/tutorial/troubleshoot.md)
+
 # pyDexlink 使用教程
 
 pyDexlink 是Dexlink协议的 **python3**实现。
-
-[DexLink协议标准](http://vm.njzyf.info/static/dexlink/)
-
 
 ## Step 0. 安装 pyDexlink
 
