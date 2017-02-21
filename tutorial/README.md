@@ -7,7 +7,7 @@ Prepared For: github.com/njzhangyifei/pyDexLink
 
 # 导航
 
-协议标准请见 [DexLink协议标准](http://vm.njzyf.info/static/dexlink/)
+协议标准请见 [DexLink 协议标准](https://static.frank.moe/dexlink_docs/)
 
 舵机硬件相关问题请见 [DexLink Servo Hardware Documentation](https://github.com/njzhangyifei/pyDexLink/tree/master/docs_hardware)
 

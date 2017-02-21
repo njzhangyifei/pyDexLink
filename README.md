@@ -6,7 +6,7 @@ Python Library for DexLink Servo
 ### Simplified Chinese Documentations
 - [pyDexlink 使用教程](https://github.com/njzhangyifei/pyDexLink/tree/master/tutorial)
 - [pyDexlink 疑难解答](https://github.com/njzhangyifei/pyDexLink/tree/master/tutorial/troubleshoot.md)
-- [DexLink 协议标准](http://vm.njzyf.info/static/dexlink/)
+- [DexLink 协议标准](https://static.frank.moe/dexlink_docs/)
 - [DexLink Servo 硬件文档](https://github.com/njzhangyifei/pyDexLink/tree/master/docs_hardware)
 
 

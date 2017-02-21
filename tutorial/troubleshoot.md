@@ -9,7 +9,7 @@ Prepared For: github.com/njzhangyifei/pyDexLink
 
 舵机硬件相关问题请见 [DexLink Servo Hardware Documentation](https://github.com/njzhangyifei/pyDexLink/tree/master/docs_hardware)
 
-DexLink 协议请参照 [DexLink协议标准](http://vm.njzyf.info/static/dexlink/)
+DexLink 协议标准请见 [DexLink 协议标准](https://static.frank.moe/dexlink_docs/)
 
 ## 无法与舵机正常通讯
 
